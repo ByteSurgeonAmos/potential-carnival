@@ -1,0 +1,12 @@
+atomicwrites==1.4.1
+attrs==24.2.0
+colorama==0.4.6
+more-itertools==10.4.0
+mypy==1.11.2
+mypy-extensions==1.0.0
+packaging==24.1
+pluggy==0.13.1
+py==1.11.0
+pytest==5.4.3
+typing_extensions==4.12.2
+wcwidth==0.2.13
