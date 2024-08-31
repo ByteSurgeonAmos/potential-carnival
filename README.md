@@ -1,6 +1,5 @@
 ### README.md
 
-````markdown
 # TCP Client and Server with SSL Support
 
 This project includes a TCP client and server, both with optional SSL support. The client connects to the server, sends queries, and receives responses. Both scripts are designed with robustness in mind and include comprehensive error handling.
@@ -55,7 +54,6 @@ To run the server with or without SSL support:
 ```bash
 python server.py --server_address <server_address> --server_port <server_port> [--use_ssl]
 ```
-````
 
 - `--server_address`: The server's address to bind to (default: `localhost`).
 - `--server_port`: The port number on which the server will listen (default: `44445`).
